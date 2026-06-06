@@ -136,15 +136,11 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 | Producto                      | Descripción                                                                 |
 | ----------------------------- | --------------------------------------------------------------------------- |
-| 🔒 **AppLocker Pro**          | Protección de aplicaciones mediante contraseña y bloqueo inteligente.       |
 | 🌐 **NetBlocker Pro**         | Bloqueo de sitios web y control de acceso a Internet por aplicación.        |
 | 🛡️🌐 **AppLocker Pro Suite** | Solución completa que integra AppLocker Pro y NetBlocker Premium.               |
 | 🌍 **AppLocker Pro Nexus**    | Administración remota Cliente-Servidor para AppLocker Pro y NetBlocker Premium. |
 
 ### 📥 Accesos Directos
-
-* 🔒 **AppLocker Pro**
-  https://github.com/soporteantimalware/applockerpro
 
 * 🌐 **NetBlocker Premium**
   https://github.com/soporteantimalware/netblockerpremium
