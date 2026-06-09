@@ -1,8 +1,8 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro 1.1.0
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro 1.2.0
 
-> ## 🔒 Bloqueo y Protección Avanzada para Windows 10 & 11
+> ## 🔒 Bloqueo, Protección y Control Temporal para Windows 10 & 11
 >
-> Es una potente herramienta de seguridad diseñada para proteger tus aplicaciones mediante bloqueo automático, protección por contraseña y un nuevo sistema inteligente que solicita autenticación al detectar aperturas externas de aplicaciones protegidas.
+> Es una potente herramienta de seguridad diseñada para proteger tus aplicaciones mediante bloqueo automático, protección por contraseña, autenticación inteligente para aperturas externas y un nuevo sistema de Control Temporal que permite administrar cuándo y durante cuánto tiempo pueden utilizarse las aplicaciones protegidas.
 >
 > Ideal para padres, empresas, estudiantes o cualquier persona que quiera mantener sus programas seguros y evitar accesos no autorizados.
 >
@@ -17,31 +17,53 @@
 
 ---
 
-# ✨ Novedades en la versión 1.1.0
+# ✨ Novedades en la versión 1.2.0
 
-✅ Nuevo modo de seguridad:
+✅ Nuevo sistema de Control Temporal
+
+### ⏳ Desbloqueo Temporal
+
+Ahora AppLocker Pro permite desbloquear aplicaciones protegidas durante un tiempo determinado sin necesidad de eliminar la protección.
+
+El usuario puede seleccionar duraciones rápidas predefinidas o establecer una duración personalizada según sus necesidades.
+
+Una vez transcurrido el tiempo configurado, la protección se restablece automáticamente.
+
+### 📅 Horario Programado
+
+AppLocker Pro ahora permite configurar horarios específicos durante los cuales una aplicación podrá utilizarse sin restricciones.
+
+Al finalizar el horario programado, la protección volverá a activarse automáticamente sin intervención del usuario.
+
+Esta función es ideal para:
+
+* 👨‍👩‍👧 Control parental
+* 🎓 Horarios de estudio
+* 🏢 Entornos empresariales
+* 🖥️ Laboratorios informáticos
 
 ### 🔐 Requerir contraseña al abrir externamente
 
-Ahora AppLocker Pro puede detectar cuando una aplicación protegida intenta abrirse desde accesos externos o procesos relacionados y solicitar automáticamente la contraseña maestra antes de permitir el acceso.
-
-Esto agrega una capa extra de protección avanzada y evita aperturas indirectas no autorizadas.
+Se mantiene el sistema de detección inteligente que identifica aperturas externas o indirectas de aplicaciones protegidas y solicita automáticamente la contraseña maestra antes de permitir el acceso.
 
 ---
 
 # 💎 Comparativa de Licencias y Descarga
 
-| Funciones                                 |                                                                                                     Gratis (Trial)                                                                                                    |                                                                                              Suscripción Anual                                                                                             |                                                                          Licencia Vitalicia                                                                          |
-| :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Bloqueo de aplicaciones                   |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Protección por contraseña                 |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Requerir contraseña al abrir externamente |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Pausar/Reanudar Protección                |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Iniciar con Windows                       |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Silenciar notificaciones                  |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Clave de recuperación                     |                                                                                                           ✅                                                                                                           |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| **Duración**                              |                                                                                                      **15 DÍAS**                                                                                                      |                                                                                                  **1 AÑO**                                                                                                 |                                                                           **PARA SIEMPRE**                                                                           |
-| **Acción** | <a href="https://github.com/soporteantimalware/applockerpro/releases/download/v1.5.0/AppLockerPro_1.5.0.exe"><img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white"></a> | <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white"></a> | <a href="https://www.paypal.com/ncp/payment/UUV7278W9YABN" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white"></a> |
+| Funciones                                 |                                                                                                          Gratis (Trial)                                                                                                         |                                                                                                           Suscripción Anual                                                                                                          |                                                                                       Licencia Vitalicia                                                                                       |
+| :---------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Bloqueo de aplicaciones                   |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Protección por contraseña                 |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Requerir contraseña al abrir externamente |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Control Temporal                          |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Desbloqueo Temporal                       |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Horario Programado                        |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Pausar/Reanudar Protección                |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Iniciar con Windows                       |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Silenciar notificaciones                  |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| Clave de recuperación                     |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
+| **Duración**                              |                                                                                                           **15 DÍAS**                                                                                                           |                                                                                                               **1 AÑO**                                                                                                              |                                                                                        **PARA SIEMPRE**                                                                                        |
+| **Acción**                                | <a href="https://github.com/soporteantimalware/applockerpro/releases/download/v1.2.0/AppLockerPro_1.2.0.exe"><img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white"></a> | <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white"></a> | <a href="https://www.paypal.com/ncp/payment/UUV7278W9YABN" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white"></a> |
 
 ---
 
@@ -55,13 +77,14 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 # 🚀 ¿Por qué elegir AppLocker Pro?
 
-| 💡 Beneficios Clave                                | ⚙️ Especificaciones                |
-| :------------------------------------------------- | :--------------------------------- |
-| 🔒 Restringe el acceso a programas sensibles.      | 🖥️ Compatible con Windows 10 y 11 |
-| 👨‍👩‍👧 Excelente para control parental.          | ⚡ Bajo consumo de RAM              |
-| 🛡️ Seguridad avanzada en tiempo real.             | 🌐 Funciona completamente offline  |
-| 🔑 Protección con contraseña maestra.              | 🚀 Inicio automático con Windows   |
-| 🧠 Nuevo sistema inteligente de detección externa. | 🔕 Modo silencioso disponible      |
+| 💡 Beneficios Clave                           | ⚙️ Especificaciones                |
+| :-------------------------------------------- | :--------------------------------- |
+| 🔒 Restringe el acceso a programas sensibles. | 🖥️ Compatible con Windows 10 y 11 |
+| 👨‍👩‍👧 Excelente para control parental.     | ⚡ Bajo consumo de RAM              |
+| 🛡️ Seguridad avanzada en tiempo real.        | 🌐 Funciona completamente offline  |
+| 🔑 Protección con contraseña maestra.         | 🚀 Inicio automático con Windows   |
+| ⏳ Control temporal inteligente.               | 🔕 Modo silencioso disponible      |
+| 📅 Gestión de horarios de acceso.             | 🛡️ Protección automática          |
 
 ---
 
@@ -71,8 +94,24 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 * Bloqueo automático de aplicaciones en tiempo real.
 * Protección robusta mediante contraseña maestra.
-* Nuevo modo de autenticación para aperturas externas.
+* Autenticación para aperturas externas.
 * Detección inteligente de procesos relacionados.
+* Protección automática al finalizar periodos temporales.
+
+### ⏳ Control Temporal
+
+* Desbloqueo temporal configurable.
+* Duraciones rápidas predefinidas.
+* Tiempo personalizado.
+* Reactivación automática de la protección.
+* Configuración sencilla desde la interfaz principal.
+
+### 📅 Horario Programado
+
+* Permite establecer horarios de uso específicos.
+* Activación automática del acceso.
+* Bloqueo automático al finalizar el horario.
+* Ideal para control parental y administración empresarial.
 
 ### ⚙️ Gestión Flexible
 
@@ -99,11 +138,24 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 # 🛡️ Casos de Uso
 
 ✅ Bloquear navegadores
+
 ✅ Restringir videojuegos
+
 ✅ Proteger herramientas empresariales
+
 ✅ Evitar acceso a configuraciones del sistema
+
 ✅ Control parental avanzado
+
 ✅ Protección de software privado
+
+✅ Permitir acceso temporal a aplicaciones
+
+✅ Configurar horarios de uso para estudiantes
+
+✅ Controlar tiempos de acceso en oficinas
+
+✅ Administrar aplicaciones en laboratorios informáticos
 
 ---
 
@@ -140,7 +192,7 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 <div align="center">
 
-<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro" width="250">
 
 </div>
 
@@ -165,9 +217,9 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 ¿Buscas una solución diferente? Descubre nuestras demás versiones y encuentra la que mejor se adapta a tus necesidades:
 
-| Producto                      | Descripción                                                                 |
-| ----------------------------- | --------------------------------------------------------------------------- |
-| 🌐 **NetBlocker Pro**         | Bloqueo de sitios web y control de acceso a Internet por aplicación.        |
+| Producto                      | Descripción                                                                     |
+| :---------------------------- | :------------------------------------------------------------------------------ |
+| 🌐 **NetBlocker Pro**         | Bloqueo de sitios web y control de acceso a Internet por aplicación.            |
 | 🛡️🌐 **AppLocker Pro Suite** | Solución completa que integra AppLocker Pro y NetBlocker Premium.               |
 | 🌍 **AppLocker Pro Nexus**    | Administración remota Cliente-Servidor para AppLocker Pro y NetBlocker Premium. |
 
@@ -188,6 +240,6 @@ Esto agrega una capa extra de protección avanzada y evita aperturas indirectas 
 
 ## ❤️ AppLocker Pro © 2026
 
-Protección con un clic y control total.
+Protección inteligente, control temporal y seguridad total.
 
 </div>
