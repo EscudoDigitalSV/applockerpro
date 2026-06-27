@@ -63,13 +63,13 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 | Silenciar notificaciones                  |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
 | Clave de recuperación                     |                                                                                                                ✅                                                                                                                |                                                                                                                   ✅                                                                                                                  |                                                                                                ✅                                                                                               |
 | **Duración**                              |                                                                                                           **15 DÍAS**                                                                                                           |                                                                                                               **1 AÑO**                                                                                                              |                                                                                        **PARA SIEMPRE**                                                                                        |
-| **Acción**                                | <a href="https://github.com/soporteantimalware/applockerpro/releases/download/v1.2.0/AppLockerPro.exe"><img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white"></a> | <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white"></a> | <a href="https://www.paypal.com/ncp/payment/UUV7278W9YABN" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white"></a> |
+| **Acción**                                | <a href="https://github.com/escudodigitalsv/applockerpro/releases/download/v1.2.0/AppLockerPro.exe"><img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white"></a> | <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0SB88094P7061501BNGASDPQ" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge&logo=paypal&logoColor=white"></a> | <a href="https://www.paypal.com/ncp/payment/UUV7278W9YABN" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge&logo=paypal&logoColor=white"></a> |
 
 ---
 
 <p align="center">
-  <a href="https://github.com/soporteantimalware/applockerpro/releases">
-    <img src="https://img.shields.io/github/downloads/soporteantimalware/applockerpro/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  <a href="https://github.com/escudodigitalsv/applockerpro/releases">
+    <img src="https://img.shields.io/github/downloads/escudodigitalsv/applockerpro/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
   </a>
 </p>
 
@@ -192,7 +192,7 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 
 <div align="center">
 
-<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro" width="250">
+<img src="https://github.com/escudodigitalsv/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro" width="250">
 
 </div>
 
@@ -226,13 +226,13 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 ### 📥 Accesos Directos
 
 * 🌐 **NetBlocker Premium**
-  https://github.com/soporteantimalware/netblockerpremium
+  https://github.com/escudodigitalsv/netblockerpremium
 
 * 🛡️🌐 **AppLocker Pro Suite**
-  https://github.com/soporteantimalware/applockerprosuite
+  https://github.com/escudodigitalsv/applockerprosuite
 
 * 🌍 **AppLocker Pro Nexus**
-  https://github.com/soporteantimalware/applockerpronexus
+  https://github.com/escudodigitalsv/applockerpronexus
 
 ---
 
