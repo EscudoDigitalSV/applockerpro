@@ -145,9 +145,11 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 </td>
 
 <td colspan="2" align="center">
-<a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/COMPRAR_LICENCIA-1_AÑO_o_PARA_SIEMPRE-764ba2?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VISITAR_WEB-escudodigitalsv.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
 </td>
 
 </tr>
