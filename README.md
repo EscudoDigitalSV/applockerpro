@@ -145,7 +145,7 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 </td>
 
 <td colspan="2" align="center">
-<a href="https://www.paypal.com/ncp/payment/UUV7278W9YABN" target="_blank">
+<a href="https://www.escudodigitalsv.com" target="_blank">
 <img src="https://img.shields.io/badge/COMPRAR_LICENCIA-1_AÑO_o_PARA_SIEMPRE-764ba2?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 </td>
