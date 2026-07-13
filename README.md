@@ -146,7 +146,7 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 
 <td colspan="2" align="center">
 <p align="center">
-  <a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.escudodigitalsv.com">
     <img src="https://img.shields.io/badge/VISITAR_WEB-escudodigitalsv.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
