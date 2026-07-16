@@ -1,8 +1,8 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro 1.2.0
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro 1.0.0
 
 > ## 🔒 Bloqueo, Protección y Control Temporal para Windows 10 & 11
 >
-> Es una potente herramienta de seguridad diseñada para proteger tus aplicaciones mediante bloqueo automático, protección por contraseña, autenticación inteligente para aperturas externas y un nuevo sistema de Control Temporal que permite administrar cuándo y durante cuánto tiempo pueden utilizarse las aplicaciones protegidas.
+> AppLocker Pro es una potente herramienta de seguridad diseñada para proteger tus aplicaciones mediante bloqueo automático, protección por contraseña, autenticación inteligente para aperturas externas y un completo sistema de Control Temporal que permite administrar cuándo y durante cuánto tiempo pueden utilizarse las aplicaciones protegidas.
 >
 > Ideal para padres, empresas, estudiantes o cualquier persona que quiera mantener sus programas seguros y evitar accesos no autorizados.
 >
@@ -17,13 +17,13 @@
 
 ---
 
-# ✨ Novedades en la versión 1.2.0
+# ✨ Funciones incluidas en esta versión
 
-✅ Nuevo sistema de Control Temporal
+AppLocker Pro 1.0.0 es la primera versión oficial del proyecto e incorpora un sistema completo de protección y control de aplicaciones para Windows.
 
 ### ⏳ Desbloqueo Temporal
 
-Ahora AppLocker Pro permite desbloquear aplicaciones protegidas durante un tiempo determinado sin necesidad de eliminar la protección.
+Permite desbloquear aplicaciones protegidas durante un tiempo determinado sin necesidad de eliminar la protección.
 
 El usuario puede seleccionar duraciones rápidas predefinidas o establecer una duración personalizada según sus necesidades.
 
@@ -31,9 +31,9 @@ Una vez transcurrido el tiempo configurado, la protección se restablece automá
 
 ### 📅 Horario Programado
 
-AppLocker Pro ahora permite configurar horarios específicos durante los cuales una aplicación podrá utilizarse sin restricciones.
+Permite configurar horarios específicos durante los cuales una aplicación podrá utilizarse sin restricciones.
 
-Al finalizar el horario programado, la protección volverá a activarse automáticamente sin intervención del usuario.
+Al finalizar el horario programado, la protección vuelve a activarse automáticamente sin intervención del usuario.
 
 Esta función es ideal para:
 
@@ -44,7 +44,9 @@ Esta función es ideal para:
 
 ### 🔐 Requerir contraseña al abrir externamente
 
-Se mantiene el sistema de detección inteligente que identifica aperturas externas o indirectas de aplicaciones protegidas y solicita automáticamente la contraseña maestra antes de permitir el acceso.
+Incluye un sistema de detección inteligente que identifica aperturas externas o indirectas de aplicaciones protegidas.
+
+Cuando una aplicación bloqueada intenta iniciarse desde otro proceso, AppLocker Pro solicita automáticamente la contraseña maestra antes de permitir el acceso.
 
 ---
 
@@ -139,16 +141,16 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 <td><b>Acción</b></td>
 
 <td align="center">
-<a href="https://github.com/escudodigitalsv/applockerpro/releases/download/v1.2.0/AppLockerPro.exe">
+<a href="https://github.com/escudodigitalsv/applockerpro/releases/download/v1.0.0/AppLockerPro.exe">
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 </a>
 </td>
 
 <td colspan="2" align="center">
 
-  <a href="https://www.escudodigitalsv.com">
-    <img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-escudodigitalsv.com-blue?style=for-the-badge">
-  </a>
+<a href="https://www.escudodigitalsv.com">
+<img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-escudodigitalsv.com-blue?style=for-the-badge">
+</a>
 
 </td>
 
@@ -206,8 +208,8 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 
 ### ⚙️ Gestión Flexible
 
-* Agrega aplicaciones por ejecutable (.exe).
-* Agrega programas mediante ruta personalizada.
+* Agrega aplicaciones mediante archivos ejecutables (.exe).
+* Agrega programas mediante rutas personalizadas.
 * Pausar o reanudar protección fácilmente.
 * Gestión rápida y sencilla desde la interfaz principal.
 
@@ -253,14 +255,14 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Pro interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección y control.
+> AppLocker Pro interactúa con procesos del sistema y configuraciones de Windows para proporcionar sus funciones de protección y control.
 >
 > Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
 
 > [!NOTE]
 > AppLocker Pro es un proyecto independiente en constante evolución.
 >
-> Actualmente, el instalador aún no cuenta con una firma digital de código (Code Signing Certificate), por lo que Windows SmartScreen puede mostrar advertencias preventivas al ejecutar el archivo descargado.
+> Esta primera versión oficial aún no cuenta con una firma digital de código (Code Signing Certificate), por lo que Windows SmartScreen puede mostrar advertencias preventivas al ejecutar el archivo descargado.
 >
 > Estas advertencias forman parte de las medidas de seguridad estándar de Windows y no indican la presencia de software malicioso.
 >
@@ -329,7 +331,9 @@ Se mantiene el sistema de detección inteligente que identifica aperturas extern
 
 <div align="center">
 
-## ❤️ AppLocker Pro © 2026
+## ❤️ AppLocker Pro v1.0.0 © 2026
+
+Primera versión oficial.
 
 Protección inteligente, control temporal y seguridad total.
 
