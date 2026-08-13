@@ -316,7 +316,7 @@ Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a
 * Captura de pantalla, si es necesario
 
 > [!IMPORTANT]
-> Nunca publiques contraseñas ni archivos `.lock` que contengan información personal.
+> Nunca publiques contraseñas ni archivos que contengan información personal.
 
 ---
 
